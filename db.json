@@ -13,5 +13,7 @@
   "profile": {
     "name": "typicode"
   },
-  "mostPrefered": [1,3,5],
+  "mostPrefered": {
+    "name": "asdfa"
+  },
 }
