@@ -9,6 +9,7 @@
     { "id": 7, "name": "Chicken Pizza", "sizes": ["24cm", "32cm"], "img": "https://sun9-67.userapi.com/3UqDry2-tCt4yqrg5A42jUrs8fkyUObGmA4MwA/vqIk6wozDno.jpg"},
     { "id": 8, "name": "Another Pizza", "sizes": ["24cm", "32cm"], "img": "https://sun9-67.userapi.com/3UqDry2-tCt4yqrg5A42jUrs8fkyUObGmA4MwA/vqIk6wozDno.jpg"},
     { "id": 9, "name": "Third Pizza", "sizes": ["24cm", "32cm"], "img": "https://sun9-67.userapi.com/3UqDry2-tCt4yqrg5A42jUrs8fkyUObGmA4MwA/vqIk6wozDno.jpg"}],
+  "categories":["blue", "yellow", "green", "other"],
   "profile": {
     "name": "typicode"
   },
